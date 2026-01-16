@@ -1,6 +1,7 @@
 ---
 name: anti-slop-light
 description: Clean AI-generated writing patterns from text with minimal token overhead. Use for quick passes on short-to-medium text.
+model: opus
 ---
 
 # Anti-Slop Light Agent

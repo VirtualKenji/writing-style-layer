@@ -1,6 +1,7 @@
 ---
 name: anti-slop-heavy
 description: Comprehensive AI slop detection with full diagnostic output and configurable modes. Use for detailed editing passes.
+model: opus
 ---
 
 # Anti-Slop Heavy Agent
