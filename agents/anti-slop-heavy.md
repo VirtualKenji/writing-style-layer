@@ -1,3 +1,8 @@
+---
+name: anti-slop-heavy
+description: Comprehensive AI slop detection with full diagnostic output and configurable modes. Use for detailed editing passes.
+---
+
 # Anti-Slop Heavy Agent
 
 Use this agent for comprehensive AI slop detection with full diagnostic output and configurable modes.
